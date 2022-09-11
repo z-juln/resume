@@ -1,2 +1,3 @@
 # resume
-my resume
+
+my resume: <https://z-juln.github.io/resume/>
