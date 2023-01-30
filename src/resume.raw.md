@@ -54,7 +54,7 @@
 
 该cli的产物有: [chalk-cjs](https://www.npmjs.com/package/npm2cjs)等
 
-#### 4. 给 [fighting-design](https://github.com/FightingDesign/fighting-design) 提过pr
+#### 5. 给 [fighting-design](https://github.com/FightingDesign/fighting-design) 提过pr
 
 - 新增了创建组件的脚本
 - 加强了发布前的代码检查
